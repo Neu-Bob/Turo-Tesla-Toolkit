@@ -6,12 +6,12 @@
 		* Agreement on who will pay for charges
 			* Is it possible to charge back a customer?
 	* Plug share tips
-3. Car Inspection
-4. Driver Setup
+2. Car Inspection
+3. Driver Setup
 	* Using the Keycard to get into the car
 	* Using a designated profile - I set up a profile called #Turo and ask my renters to use that profile
 	* Review wheel position & mirror adjustment
-5. Driving
+4. Driving
 	* Proper keycard placement for turing the car on
 	* Drive, Reverse & Park
 	* Autopilot 
