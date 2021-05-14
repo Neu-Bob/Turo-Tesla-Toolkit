@@ -31,3 +31,16 @@
       * When the car will steer and when it will not
       * Accepting disclaimers and setting up prefrences for AP
       * Engaging and disengaging AP
+6. Other Charges
+    * Tolls
+    * Charging
+      * Tesla Charging stations vary by location 
+    * Lost Key ($25)
+    * Charging Parts
+      * Bag (???)
+      * Gen2 Mobile Connector Bundle ($300)
+      * 110 Adapter ($40)
+      * 14-50 Adapter ($50)
+      * J1772 Adapter ($100)
+
+
