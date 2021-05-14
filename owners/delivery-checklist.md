@@ -12,4 +12,9 @@
 <li>Car Inspection</li>
 <li>Driver Setup</li>
 <li>Driving a Tesla</li>
+	<ul>
+		<li>Drive, Reverse, Park</li>
+		<li>Autopilot and expectations</li>
+	</ul>
+
 </ul>
