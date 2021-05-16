@@ -25,9 +25,8 @@ I may assess cleaning fees after the trip:
 Teslas are fun to drive, but you need to be responsible. Please do not:
 
 * Disable Tesla mobile access
-* Drive recklessly or offroad
+* Drive recklessly doing burnouts or offroading
 * Hit curbs or take steep driveways or hills at excessive speed
-* Do burnouts
 * Exceed 100 MPH. I will be notified and lower the maximum speed available to you.
 
 Many parts on these cars (and the cars themselves) are expensive. I may charge damage fees after the trip:
@@ -45,21 +44,27 @@ Look for red markers on the navigation map. They are Tesla Superchargers. They a
 
 I charge $350 to replace any lost or damaged charging components I've included in the car. The best way to avoid that fee is to not use those items. Stick to Superchargers or properties that offer Tesla-branded overnight charging.
 
-**You will be responsible for covering all fees related to charging regardless of how the car car is charged. Turo offers an unlimited supercharging option for $20/day. This allows for easy, low-stress road trips. Note that Tesla may charge $1/minute if you don't move the car after it is done supercharging. The Turo fee does not cover that excess charge or fees incurred at non-Tesla public chargers.**
-
 The main battery is the most expensive part of the car. To take good care of it, please do not:
 
-* Drive the car with less than 10% except directly to a charger
+* Drive the car with less than 10% charge except directly to a charger
 * Charge the battery to over 90% unless you are immediately driving for half an hour or more
 * Park the car overnight with battery levels below 10% or over 90%
+* Manually close the charge port door; it will close by itself
 
-If you completely drain the battery and become stranded, you will need to pay for a flatbed tow to the nearest supercharger, the cost of supercharging, and I will assess a vehicle damage fee for the damage you have caused to the battery.
+If you completely drain the battery and become stranded, you will need to pay for:
+
+* a flatbed tow to the nearest supercharger
+* the cost of any damages caused by towing it
+* the cost of the supercharging session
+* a vehicle damage fee for the damage you have caused to the battery
+
+**You will be responsible for covering all fees related to charging regardless of how the car car is charged, including any idling fees incurred by failing to move the car after it is fully charged. Turo offers an unlimited supercharging option for $20/day. This allows for easy, low-stress road trips when using Tesla Superchargers, but does not cover idling fees or fees charged by other parties.**
 
 # Tolls and Violations
 
-Feel free to bring and use your own electronic toll tag. You are responsible for all toll fees incurred during your booking.
+Feel free to bring and use your own electronic toll tag. You are responsible for all toll fees and violations incurred during your booking.
 
-If you are ticketed for any reason please let us know immediately upon return. All fines or traffic violations are the sole responsibility of the guest during the rental period, including but not limited to speed tickets arriving by mail after your rental period has ended.
+If you are ticketed for any reason please let us know immediately upon return. You are solely responsible for all fines or traffic violations incurred during the rental period.
 
 # Extending Trips
 
